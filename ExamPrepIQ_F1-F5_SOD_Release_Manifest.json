@@ -1,0 +1,13 @@
+{
+  "edition": "ExamPrep IQ F1-F5 SOD + Developing",
+  "official_url": "https://4dramin.github.io/1/",
+  "copyright": "\u00a9 2026 Dr. Amin Mefreh",
+  "source_sha256": "8847d22418ab2eb178593bf734b5f936fd4ad6b89a5e47e0dc990dce5ceb7099",
+  "protected_sha256": "f3e0afe1b8625bd596da951d74b48d852947b6d2ec41974f8803696a8810b600",
+  "encrypted_script_count": 23,
+  "encryption": "AES-256-GCM for all embedded JavaScript (client-side deterrent, not unbreakable)",
+  "checks": {
+    "script_syntax": "passed separately",
+    "official_live_browser": "requires deployment"
+  }
+}
